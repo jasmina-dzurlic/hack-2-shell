@@ -1,2 +1,1 @@
-hello world
-Learing git is easy peazy. 
+Learing git is easy peazy! :+1: 
